@@ -1,7 +1,9 @@
 # animation
 javascript canvas animation
 
-This project is live on GitHub Pages: https://billra.github.io/animation/
+**The contents of this repository has been moved (with history) to the billra.com repository.**
+
+The animation is live at: https://www.billra.com/balls/
 
 Use F1 for control description help screen.
 
